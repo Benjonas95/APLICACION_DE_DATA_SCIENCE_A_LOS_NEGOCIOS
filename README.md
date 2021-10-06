@@ -1,0 +1,2 @@
+# APLICACION_DE_DATA_SCIENCE_A_LOS_NEGOCIOS
+ Sistema de recomendacion
